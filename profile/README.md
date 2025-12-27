@@ -15,22 +15,23 @@
 
 ## Upcoming CTF / 次回開催
 
-### DIVER OSINT CTF 2025
+### SWIMMER OSINT CTF 2025
 
-- **2025 June 7th (Sat) 03:00 UTC - June 8th (Sun) 03:00 UTC** (24hrs)
+- **2025 Jan 17th (Sat) 03:10 UTC - Jan 18th (Sun) 15:10 UTC** (12hrs)
 - Team competition (max 6 people per team)
 - online
+- [https://swimmer.diverctf.org/](https://swimmer.diverctf.org/)
 
 Stay tuned with following our X account and joining Discord server!
 
-- **2025年6月7日（土）正午 (JST) ～8日（日）正午 (JST)** (24時間)
+- **2026年1月17日 (土) 12:10 (JST) ～18日（日） 深夜0:10 (JST)** (12時間)
 - チーム戦（1チームあたり最大6名）
 - オンライン開催
 
 最新情報はXのアカウントをフォロー・Discordサーバに参加することで受け取ることができます。
 
 ## Links
-
+* HomePage: [https://diverctf.org](https://diverctf.org)
 * Twitter / X: [@DIVER_OSINT_CTF](https://x.com/DIVER_OSINT_CTF)
 * Discord Server: [DIVER OSINT CTF](https://discord.diverctf.org)
 * CTF Time: [DIVER OSINT CTF](https://ctftime.org/ctf/1111)
