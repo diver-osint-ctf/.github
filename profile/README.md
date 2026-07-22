@@ -17,14 +17,14 @@
 
 ### SWIMMER OSINT CTF 2025
 
-- **2025 Jan 17th (Sat) 03:10 UTC - Jan 18th (Sun) 15:10 UTC** (12hrs)
+- **2026 Jul 25th (Sat) 03:10 UTC - Jul 26th (Sun) 03:10 UTC** (24hrs)
 - Team competition (max 6 people per team)
 - online
-- [https://swimmer.diverctf.org/](https://swimmer.diverctf.org/)
+- [https://ctfd.diverctf.org/](https://ctfd.diverctf.org/)
 
 Stay tuned with following our X account and joining Discord server!
 
-- **2026年1月17日 (土) 12:10 (JST) ～18日（日） 深夜0:10 (JST)** (12時間)
+- **2026年7月25日 (土) 12:10 (JST) ～26日（日） 12:10 (JST)** (24時間)
 - チーム戦（1チームあたり最大6名）
 - オンライン開催
 
