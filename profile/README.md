@@ -15,7 +15,7 @@
 
 ## Upcoming CTF / 次回開催
 
-### SWIMMER OSINT CTF 2025
+### DIVER OSINT CTF 2026
 
 - **2026 Jul 25th (Sat) 03:10 UTC - Jul 26th (Sun) 03:10 UTC** (24hrs)
 - Team competition (max 6 people per team)
